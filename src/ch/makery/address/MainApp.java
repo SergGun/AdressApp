@@ -20,9 +20,7 @@ public class MainApp extends Application {
    
     // ... AFTER THE OTHER VARIABLES ...
 
-    /**
-     * The data as an observable list of Persons.
-     */
+    
     private ObservableList<Person> personData = FXCollections.observableArrayList();
 
     /**
